@@ -87,7 +87,7 @@ In order to find the better model, we setup 3 control groups.
 * With stop words dataset VS without stop words dataset
 * Change branch size and learning rate 
 
-After three experiments, we found the branch size = 80 and with stop words has a better bleu whci is 18.7.
+After three experiments, we found the branch size = 80 and with stop words has a better bleu which is 18.7.
 
 ### Web Design
 For the web design, we used flask to design the website. The flask is based on the local server.
