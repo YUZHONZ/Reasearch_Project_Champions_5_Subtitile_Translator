@@ -32,7 +32,7 @@ https://drive.google.com/drive/folders/1_mK70MN733_GSPcHn3Qjpjh7N61-wSt7?usp=sha
 For the model traning, we trained our model on the colab pro. If you want to save the model on your google drive, you would 
 better buy more storage. The code link shows below:
 
-https://colab.research.google.com/drive/193JRvBy7Veg6N8USsomJuEb3jezuewVz?usp=sharing
+https://colab.research.google.com/drive/1G2QVOLej1SvtadB6kGp52W6MEkvo_N5X?usp=sharing
  
 Pre-request of the model: 
 * Tf 1.x
