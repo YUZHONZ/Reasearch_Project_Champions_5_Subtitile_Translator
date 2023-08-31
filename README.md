@@ -1,4 +1,4 @@
-## Reasearch_Project_Champions_5_Subtitile_Tansaltor
+## Reasearch_Project_Champions_5_Subtitile_Translator
 Deliverable of UTS 32933 Research Project Autumn 2020
 
 Supervisor: Dr. Wei liu
